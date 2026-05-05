@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dimsum-yellow: #FACC15;
+  --color-dimsum-dark: #1A1A1A;
+  --color-silver: #C0C0C0;
+}
+
+body {
+  @apply bg-white text-dimsum-dark antialiased;
+  /* Membuat semua teks uppercase lebih rapat (opsional) */
+  letter-spacing: -0.02em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
