@@ -19,10 +19,10 @@ export default function Home() {
   
   <div className="relative z-10 text-center px-4 w-full">
     <h1 className="text-5xl sm:text-6xl md:text-[10rem] lg:text-[12rem] font-black text-dimsum-yellow leading-[0.85] uppercase italic drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)] break-words">
-      BENER <br /> BENER
+      DIMSUM<br /> BENER <br /> BENER
     </h1>
     <p className="mt-4 sm:mt-6 bg-dimsum-yellow text-dimsum-dark inline-block px-4 sm:px-8 py-2 font-black uppercase tracking-tighter text-sm sm:text-base rounded-sm rotate-1 shadow-xl">
-      Dimsum Artisanal Bekasi
+      Dimsum Nye Bekasi
     </p>
   </div>
 </section>
